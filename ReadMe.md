@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Computer Science student @ AUS | Interested in software engineering, web development, and game development. Currently building projects with JavaScript and Unity.
 
 
 ## 🌐 Socials:
